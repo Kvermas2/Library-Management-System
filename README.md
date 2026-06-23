@@ -1,7 +1,6 @@
 # Library Management System
 
-A simple Library Management System built using Python and MySQL. This project allows users to manage books, members, borrowing, returns, and overdue records through a clean menu-driven interface.
-
+Developed a Library Management System using Python and MySQL featuring member management, inventory tracking, book issuance and return workflows, availability validation, member verification, and overdue reporting.
 # Features
 
 * Add and search books
